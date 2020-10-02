@@ -1,1 +1,2 @@
 pipenv
+RAM as per your requirements & Coding Editors like Sublime Text 3, Visual Studio Code, Atom & etc..
